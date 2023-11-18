@@ -12,8 +12,9 @@
 - 💬 Ask me about **Latest Technologies in Market**
 
 - 📫 How to reach me **digantvyahalkar@gmail.com**
-[![digantv's GitHub | Languages Over Time](https://stats.quine.sh/digantv/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=digantv)
 [![digantv's GitHub | Stats](https://stats.quine.sh/digantv/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=digantv)
+[![digantv's GitHub | Languages Over Time](https://stats.quine.sh/digantv/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=digantv)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dvyahalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dvyahalkar" height="30" width="40" /></a>
