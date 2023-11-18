@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Digant Vyahalkar</h1>
-<h3 align="center">A passionate Java Developer From India</h3>
+<h3 align="center">A passionate Java Developer</h3>
 
 - 🔭 I’m currently working on [shop-management-jfx-db-maven](https://github.com/digantv/shop-management-jfx-db-maven)
 
