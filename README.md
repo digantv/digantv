@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **Full-Stack Java Development, JavaFX, Maven, Spring, Spring Boot, Hibernate**
 
+- 👯 I’m looking to collaborate on **any industrial projects that works in Java**
+
+- 👨‍💻 All of my projects are available at [https://github.com/digantv?tab=repositories](https://github.com/digantv?tab=repositories)
+
+- 💬 Ask me about **Latest Technologies in Market**
+
 - 📫 How to reach me **digantvyahalkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
