@@ -12,6 +12,8 @@
 - 💬 Ask me about **Latest Technologies in Market**
 
 - 📫 How to reach me **digantvyahalkar@gmail.com**
+
+
 [![digantv's GitHub | Stats](https://stats.quine.sh/digantv/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=digantv)
 [![digantv's GitHub | Languages Over Time](https://stats.quine.sh/digantv/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=digantv)
 
