@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [shop-management-jfx-db-maven](https://github.com/digantv/shop-management-jfx-db-maven)
 
-- 🌱 I’m currently learning **Full-Stack Java Development, JavaFX, Maven, Spring, Spring Boot, Hibernate**
+- 🌱 I’m currently learning **Full-Stack Java Development, JavaFX, Maven, JDBC, Spring, Spring Boot, Hibernate**
 
 - 👯 I’m looking to collaborate on **any industrial projects that works in Java**
 
