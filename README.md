@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Java Development, JavaFX, Maven, JDBC, Spring, Spring Boot, Hibernate, Rest API**
 
-- 👨‍💻 All of my projects are available at [https://github.com/digantv?tab=repositories](https://github.com/digantv?tab=repositories)
+- 👨‍💻 All of my projects are available at = [https://github.com/digantv?tab=repositories](https://github.com/digantv?tab=repositories)
 
 - 📫 How to reach me **digantvyahalkar@gmail.com**
 
