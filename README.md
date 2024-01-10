@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [authentication-service-springboot](https://github.com/digantv/authentication-service-springboot)
 
-- 🌱 I’m currently learning **Full-Stack Java Development, JavaFX, Maven, MySQL, JDBC, Spring, Spring Boot, AOP , Spring Security , Hibernate, Rest API**
+- 🌱 I’m currently learning **Full-Stack Java Development , JavaFX , Maven , MySQL , JDBC , Spring , Spring Boot , AOP , Spring Security , Hibernate , Rest API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/digantv?tab=repositories](https://github.com/digantv?tab=repositories)
 
