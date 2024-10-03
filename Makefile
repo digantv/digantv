@@ -4,7 +4,6 @@ all: commit
 
 commit:
 	@for i in {1..15}; do \
-	    echo "         " >> README.md; \
 	    echo "" >> README.md; \
 	    git add README.md; \
 	    git commit -m "Add new line $$i and a blank line to README.md" --no-edit; \
