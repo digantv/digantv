@@ -3,6 +3,7 @@
 all: commit
 
 commit:
+	git pull --rebase
 	@for i in {1..15}; do \
 	    echo "" >> README.md; \
 	    git add README.md; \
