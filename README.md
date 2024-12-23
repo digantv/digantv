@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Digant and I'm a Software Developer, from Pune, India</h2>
+<h2 align="left">Hi 👋! My name is Digant and I'm a Software Developer, from Pune, India</h2> 
 
 ###
 
