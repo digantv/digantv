@@ -100,6 +100,8 @@
   </a>
 </div>
 
+<p><img align="center" src="https://streak-stats.demolab.com/?user=digantv&theme=react&layout=compact" alt="digantv"</p>
+
 ###
 
 <br clear="both">
